@@ -10235,6 +10235,7 @@ type Props_menuitem =
   , datatype :: String
   , dateTime :: String
   , dir :: String
+  , disabled :: Boolean
   , draggable :: Boolean
   , encType :: String
   , formAction :: String

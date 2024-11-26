@@ -365,6 +365,9 @@
   "map": [
     "name"
   ],
+  "menuitem": [
+    "disabled"
+  ],
   "meta": [
     "content",
     "name"
